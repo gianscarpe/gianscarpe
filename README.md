@@ -6,9 +6,14 @@ Visiting Scientist @ IIT, currently working on algorithms for event-based camera
 This is my [blog](https://blog.scarpellini.dev)
 
 This is my [resume](https://github.com/gianscarpe/resume)
+
 📫 email: gianluca@scarpellini.dev
+
 🔭 Event-cameras, Human Pose Estimation, camera networks
+
 🌱 Computer Vision, computational geoemtry, deep learning
+
+⚡ Fun fact: I love reading. Currently heading toward 50 books this year. Add me on [goodreads](https://www.goodreads.com/user/show/123225277-gianscarpe)
 
 <a href="https://github.com/gianscarpe/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gianscarpe&show_icons=true&include_all_commits=true&theme=radical" alt="Gianscarpe's github stats" />
