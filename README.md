@@ -5,7 +5,7 @@ Visiting Scientist @ IIT, currently working on algorithms for event-based camera
 
 This is my [blog](https://blog.scarpellini.dev)
 
-This is my [resume](https://github.com/gianscarpe/resume)
+This is my [resume](https://github.com/gianscarpe/resume/blob/master/Gianluca_Scarpellini_CV.pdf)
 
 Skills: Python, [C++](https://github.com/gianscarpe/cpp_primer), [Computer Vision](https://github.com/gianscarpe/computer_vision_szeliski)
 
