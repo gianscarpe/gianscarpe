@@ -26,8 +26,9 @@ This is my [resume](https://github.com/gianscarpe/resume)
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianscarpe&repo=resume&theme=radical" />
 </a>    
 
+<a href="https://linkedin.com/in/gianlucascarpellini">
 <img src="https://github-readme-linkedin.vercel.app/experience?username=gianlucascarpellini" />
-
+</a> 
 
 <!--
 **gianscarpe/gianscarpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
