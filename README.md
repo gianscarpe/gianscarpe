@@ -20,12 +20,9 @@ This is my [resume]
 </a>
 
 <a href="https://github.com/gianscarpe/github-readme-stats">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianscarpe&repo=github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianscarpe&repo=event-camera&theme=radical" />
 </a>    
-<a href="https:blog.scarpellini.dev">
-  <img align="center" src="https://github-readme-stats.gianscarpe.vercel.app/api/pin/?username=gianscarpe&repo=event-camera&theme=radical" />
-</a>
+
 
 <!--
 **gianscarpe/gianscarpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
