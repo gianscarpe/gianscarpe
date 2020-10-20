@@ -27,7 +27,7 @@ This is my [resume](https://github.com/gianscarpe/resume)
 </a>    
 
 <a href="https://linkedin.com/in/gianlucascarpellini">
-<img src="https://github-readme-linkedin.vercel.app/experience?username=gianlucascarpellini" />
+<img src="https://github-readme-linkedin.vercel.app/user?username=gianlucascarpellini" />
 </a> 
 
 <!--
