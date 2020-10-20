@@ -7,7 +7,7 @@ This is my [blog](https://blog.scarpellini.dev)
 This is my [resume]
 
 
-📫 email: gianluca@scarpellini.dev --- linkedIn: gianlucascarpellini
+📫 email: gianluca@scarpellini.dev --- linkedIn: [gianlucascarpellini](https://linkedin.com)
 🔭 Event-cameras, Human Pose Estimation, camera networks
 🌱 Computer Vision, computational geoemtry, deep learning
 
@@ -24,7 +24,7 @@ This is my [resume]
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianscarpe&repo=github-readme-stats&theme=radical" />
 </a>    
 <a href="https:blog.scarpellini.dev">
-  <img align="center" src="https://github-readme-stats.gianscarpe.vercel.app/api/pin/?username=gianscarpe&repo=blog&theme=radical" />
+  <img align="center" src="https://github-readme-stats.gianscarpe.vercel.app/api/pin/?username=gianscarpe&repo=event-camera&theme=radical" />
 </a>
 
 <!--
