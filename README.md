@@ -7,6 +7,8 @@ This is my [blog](https://blog.scarpellini.dev)
 
 This is my [resume](https://github.com/gianscarpe/resume)
 
+Skills: Python, [C++](https://github.com/gianscarpe/cpp_primer), [Computer Vision](https://github.com/gianscarpe/computer_vision_szeliski)
+
 📫 email: gianluca@scarpellini.dev
 
 🔭 Event-cameras, Human Pose Estimation, camera networks
