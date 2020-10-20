@@ -4,7 +4,8 @@ I'm [Gianluca](https://blog.scarpellini.dev)!
 Visiting Scientist @ IIT, currently working on algorithms for event-based camera at Italian Institute of Technology. Bother me if you want :)
 
 This is my [blog](https://blog.scarpellini.dev)
-This is my [resume]
+
+This is my [resume](https://github.com/gianscarpe/resume)
 
 
 📫 email: gianluca@scarpellini.dev --- linkedIn: [gianlucascarpellini](https://linkedin.com)
@@ -21,6 +22,10 @@ This is my [resume]
 
 <a href="https://github.com/gianscarpe/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianscarpe&repo=event-camera&theme=radical" />
+</a>    
+
+<a href="https://github.com/gianscarpe/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianscarpe&repo=resume&theme=radical" />
 </a>    
 
 
