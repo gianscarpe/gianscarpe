@@ -1,7 +1,9 @@
-### Hi there 👋
+[![Gianscarpe's github stats](https://github-readme-stats.vercel.app/api?username=gianscarpe)](https://github.com/anuraghazra/github-readme-stats)
+### What's up there? 👋
 
 I'm Gianluca!
-[![Gianscarpe's github stats](https://github-readme-stats.vercel.app/api?username=gianscarpe)](https://github.com/anuraghazra/github-readme-stats)
+Visiting Scientist @ IIT, currently working on algorithms for event-based camera at Italian Institute of Technology. Bother me if you want :)
+Visit my [blog](https://blog.scarpellini.dev)
 
 📫 email: gianluca@scarpellini.dev
 📫 linkedIn: gianlucascarpellini
