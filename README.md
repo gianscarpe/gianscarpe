@@ -1,7 +1,7 @@
 ### What's up there? 👋
 
 I'm [Gianluca](https://blog.scarpellini.dev)!
-Visiting Scientist @ IIT, currently working on algorithms for event-based camera at Italian Institute of Technology. Bother me if you want :)
+Ph.D. student @ IIT, currently working on algorithms for event-based camera at Italian Institute of Technology. Bother me if you want :)
 
 This is my [blog](https://blog.scarpellini.dev)
 
