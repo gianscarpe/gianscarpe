@@ -21,8 +21,8 @@ Programming Languages: Python, [C++](https://github.com/gianscarpe/cpp_primer)\
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianscarpe&layout=compact&theme=radical&hide=jupyter%20notebook" />
 </a>
 
-<a href="https://github.com/gianscarpe/event-camera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianscarpe&repo=event-camera&theme=radical" />
+<a href="https://github.com/gianscarpe/event-based-monocular-hpe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianscarpe&repo=event-based-monocular-hpe&theme=radical" />
 </a>    
 
 <a href="https://github.com/gianscarpe/resume">
