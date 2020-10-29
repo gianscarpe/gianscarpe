@@ -7,10 +7,10 @@ This is my [blog](https://blog.scarpellini.dev)\
 This is my [resume](https://github.com/gianscarpe/resume/blob/master/Gianluca_Scarpellini_CV.pdf)
 
 📫 email: gianluca@scarpellini.dev\
-🔭 Event-cameras, Human Pose Estimation, camera networks\
+🔭 Research on Event-cameras, Human Pose Estimation, camera networks\
 🌱 [Deep learning](https://github.com/gianscarpe/event-based-monocular-hpe), [Computer Vision](https://github.com/gianscarpe/computer_vision_szeliski), [Image processing](https://github.com/gianscarpe/chess_detection)
 
-Programming Languages: Python, [C++](https://github.com/gianscarpe/cpp_primer), 
+Programming Languages: Python, [C++](https://github.com/gianscarpe/cpp_primer)\
 ⚡ Fun fact: I love reading. Currently heading toward 50 books this year. Add me on [goodreads](https://www.goodreads.com/user/show/123225277-gianscarpe)
 
 <a href="https://github.com/gianscarpe/github-readme-stats">
