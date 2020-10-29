@@ -18,7 +18,7 @@ Programming Languages: Python, [C++](https://github.com/gianscarpe/cpp_primer)\
 </a>
 <a href="https://github.com/gianscarpe">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianscarpe&layout=compact&theme=radical?hide=Jupyter\ Notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianscarpe&layout=compact&theme=radical&hide=jupyter%20notebook" />
 </a>
 
 <a href="https://github.com/gianscarpe/event-camera">
