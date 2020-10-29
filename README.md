@@ -4,7 +4,7 @@ I'm [Gianluca](https://blog.scarpellini.dev)!
 Ph.D. student @ Italian Institute of Technology, currently working on algorithms for event-based camera and robotics. Bother me if you want :)
 
 This is my [blog](https://blog.scarpellini.dev)\
-This is my [resume](https://github.com/gianscarpe/resume/blob/master/Gianluca_Scarpellini_CV.pdf)\
+This is my [resume](https://github.com/gianscarpe/resume/blob/master/Gianluca_Scarpellini_CV.pdf)
 
 📫 email: gianluca@scarpellini.dev\
 🔭 Event-cameras, Human Pose Estimation, camera networks\
