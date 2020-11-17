@@ -11,6 +11,9 @@ This is my [resume](https://github.com/gianscarpe/resume/blob/master/Gianluca_Sc
 🌱 [Deep learning](https://github.com/gianscarpe/event-based-monocular-hpe), [Computer Vision](https://github.com/gianscarpe/computer_vision_szeliski), [Image processing](https://github.com/gianscarpe/chess_detection)
 
 Programming Languages: Python, [C++](https://github.com/gianscarpe/cpp_primer)\
+Courses: [Udacity - Deep Reinforcement Learning](https://github.com/gianscarpe/udacity_deep_reinforcement_learning), [Udacity - Robotics](https://github.com/gianscarpe/udacity_sensor_fusion)\
+Projects: [fashion-answer](https://github.com/gianscarpe/fashion-answer)\
+Open-source contributions: [pytorch-lightning](https://github.com/gianscarpe/pytorch-lightning)\
 ⚡ Fun fact: I love reading. Currently heading toward 50 books this year. Add me on [goodreads](https://www.goodreads.com/user/show/123225277-gianscarpe)
 
 <a href="https://github.com/gianscarpe/github-readme-stats">
