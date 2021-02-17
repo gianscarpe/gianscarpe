@@ -21,7 +21,7 @@ Open-source contributions: [pytorch-lightning](https://github.com/gianscarpe/pyt
 </a>
 <a href="https://github.com/gianscarpe">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianscarpe&layout=compact&theme=radical&hide=jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianscarpe&layout=compact&theme=radical&hide=matlab%20jupyter%20notebook" />
 </a>
 
 <a href="https://github.com/gianscarpe/event-based-monocular-hpe">
