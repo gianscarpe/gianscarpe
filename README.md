@@ -13,9 +13,13 @@ This is my [linkedin](https://www.linkedin.com/in/gianlucascarpellini/)
 
 Programming Languages: Python, [C++](https://github.com/gianscarpe/cpp_primer)\
 Courses: [Udacity - Deep Reinforcement Learning](https://github.com/gianscarpe/udacity_deep_reinforcement_learning), [Udacity - Robotics](https://github.com/gianscarpe/udacity_sensor_fusion)\
-Publications: [Lifting events to 3D Human Poses - CVPRw 2021](https://github.com/IIT-PAVIS/lifting_events_to_3d_hpe)
-Open-source contributions: [pytorch-lightning](https://github.com/gianscarpe/pytorch-lightning)\
-⚡ Fun fact: I love reading. Currently heading toward 50 books this year. Add me on [goodreads](https://www.goodreads.com/user/show/123225277-gianscarpe)
+Publications:
+- [Lifting events to 3D Human Poses - CVPRw 2021](https://github.com/IIT-PAVIS/lifting_events_to_3d_hpe)
+
+Contributing to: 
+- [pytorch-lightning](https://github.com/gianscarpe/pytorch-lightning)
+
+⚡ Fun fact: I love reading. Currently heading toward 50 books this year. Add me on [goodreads](https://www.goodreads.com/user/show/123225277-gianscarpe). Sometimes I write too. [You can read something](https://blog.scarpellini.dev/short-stories/)
 
 <a href="https://github.com/gianscarpe/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gianscarpe&show_icons=true&include_all_commits=true&theme=radical" alt="Gianscarpe's github stats" />
