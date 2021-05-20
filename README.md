@@ -10,7 +10,7 @@ Ph.D. student @ Italian Institute of Technology, currently working on algorithms
 ![](https://visitor-badge.glitch.me/badge?page_id=gianscarpe.gianscarpe)
 
 This is my [blog](https://blog.scarpellini.dev)\
-This is my [resume](https://github.com/gianscarpe/resume/blob/master/Gianluca_Scarpellini_CV.pdf) \
+This is my [resume](https://github.com/gianscarpe/resume/blob/master/Gianluca_Scarpellini_CV.pdf) 
 
 📫 email: gianluca@scarpellini.dev\
 🔭 Research on Event-cameras, Human Pose Estimation, camera networks\
