@@ -7,7 +7,7 @@ Ph.D. student @ Italian Institute of Technology, currently working on algorithms
   <img align="left" alt="Gianscarpe's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=gianscarpe.gianscarpe)
 
 This is my [blog](https://blog.scarpellini.dev)\
 This is my [resume](https://github.com/gianscarpe/resume/blob/master/Gianluca_Scarpellini_CV.pdf) \
