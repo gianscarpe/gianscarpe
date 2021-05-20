@@ -3,9 +3,14 @@
 I'm [Gianluca](https://blog.scarpellini.dev)!
 Ph.D. student @ Italian Institute of Technology, currently working on algorithms for event-based camera and robotics. Bother me if you want :)
 
+<a href=https://www.linkedin.com/in/gianlucascarpellini/>
+  <img align="left" alt="Gianscarpe's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
 This is my [blog](https://blog.scarpellini.dev)\
-This is my [resume](https://github.com/gianscarpe/resume/blob/master/Gianluca_Scarpellini_CV.pdf)
-This is my [linkedin](https://www.linkedin.com/in/gianlucascarpellini/)
+This is my [resume](https://github.com/gianscarpe/resume/blob/master/Gianluca_Scarpellini_CV.pdf) \
 
 📫 email: gianluca@scarpellini.dev\
 🔭 Research on Event-cameras, Human Pose Estimation, camera networks\
