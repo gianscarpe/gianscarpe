@@ -14,7 +14,7 @@ This is my [medium](https://gscarpellini.medium.com)\
 This is my [resume](https://github.com/gianscarpe/resume/blob/master/Gianluca_Scarpellini_CV.pdf) 
 
 📫 email: gianluca@scarpellini.dev\
-🔭 Research on Event-cameras, Human Pose Estimation, camera networks\
+🔭 Research on Self-supervised object-detection, robotics exploration, reinforcement learning
 🌱 [Computer Vision](https://github.com/gianscarpe/computer_vision_szeliski), [Image processing](https://github.com/gianscarpe/chess_detection)
 
 Programming Languages: Python, [C++](https://github.com/gianscarpe/cpp_primer)\
