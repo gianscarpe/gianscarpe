@@ -10,8 +10,8 @@ Ph.D. student @ Italian Institute of Technology, currently working on robotics e
 ![](https://visitor-badge.glitch.me/badge?page_id=gianscarpe.gianscarpe)
 
 This is my [blog](https://blog.scarpellini.dev)\
-This is my [medium](https://gscarpellini.medium.com)\
-This is my [resume](https://github.com/gianscarpe/resume/blob/master/Gianluca_Scarpellini_CV.pdf) 
+This is my [resume](https://github.com/gianscarpe/resume/blob/master/Gianluca_Scarpellini_resume.pdf)\
+This is my [scholar](https://scholar.google.com/citations?user=Wlye2XUAAAAJ&hl=it&oi=ao)\
 
 📫 email: gianluca@scarpellini.dev\
 🔭 Research on Self-supervised object-detection, robotics exploration, reinforcement learning
@@ -19,11 +19,13 @@ This is my [resume](https://github.com/gianscarpe/resume/blob/master/Gianluca_Sc
 
 Programming Languages: Python, [C++](https://github.com/gianscarpe/cpp_primer)\
 Courses: [Udacity - Deep Reinforcement Learning](https://github.com/gianscarpe/udacity_deep_reinforcement_learning), [Udacity - Robotics](https://github.com/gianscarpe/udacity_sensor_fusion)\
+
 Publications:
 - [Lifting events to 3D Human Poses - CVPRw 2021](https://github.com/IIT-PAVIS/lifting_events_to_3d_hpe)
 
 Contributing to: 
-- [pytorch-lightning](https://github.com/gianscarpe/pytorch-lightning)
+- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
+- [torchmetrics](https://github.com/PyTorchLightning/metrics)
 
 ⚡ Fun fact: I love reading. Currently heading toward 35 books this year. Add me on [goodreads](https://www.goodreads.com/user/show/123225277-gianscarpe). Sometimes I write too. [You can read something](https://blog.scarpellini.dev/short-stories/)
 
