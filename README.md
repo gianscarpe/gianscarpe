@@ -11,7 +11,7 @@ Ph.D. student @ Italian Institute of Technology, currently working on robotics e
 
 This is my [blog](https://blog.scarpellini.dev)\
 This is my [resume](https://github.com/gianscarpe/resume/blob/master/Gianluca_Scarpellini_resume.pdf)\
-This is my [scholar](https://scholar.google.com/citations?user=Wlye2XUAAAAJ&hl=it&oi=ao)\
+This is my [scholar](https://scholar.google.com/citations?user=Wlye2XUAAAAJ&hl=it&oi=ao)
 
 📫 email: gianluca@scarpellini.dev\
 🔭 Research on Self-supervised object-detection, robotics exploration, reinforcement learning
