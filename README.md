@@ -34,7 +34,7 @@ Contributing to:
 </a>
 <a href="https://github.com/gianscarpe">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianscarpe&layout=compact&theme=radical&hide=jupyter%20notebook,html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianscarpe&layout=compact&theme=radical&hide=jupyter%20notebook,html,css,tex" />
 </a>
 
 <a href="https://github.com/IIT-PAVIS/lifting_events_to_3d_hpe">
