@@ -1,7 +1,7 @@
 ### What's up there? 👋
 
 I'm [Gianluca](https://blog.scarpellini.dev)!
-Ph.D. student @ Italian Institute of Technology, currently working on robotics exploration and active learning :)
+Ph.D. student @ Italian Institute of Technology and incoming intern @ DeepMind, currently working on robotics exploration and active learning :)
 
 <a href=https://www.linkedin.com/in/gianlucascarpellini/>
   <img align="left" alt="Gianscarpe's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
