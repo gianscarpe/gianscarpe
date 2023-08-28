@@ -10,7 +10,7 @@ Ph.D. student @ Italian Institute of Technology and previously intern @ DeepMind
 ![](https://visitor-badge.glitch.me/badge?page_id=gianscarpe.gianscarpe)
 
 This is my [blog](https://blog.scarpellini.dev)\
-This is my [resume](https://github.com/gianscarpe/resume/blob/master/Gianluca_Scarpellini_resume.pdf)\
+This is my [resume](https://github.com/gianscarpe/resume/blob/master/Scarpellini_cv.pdf)\
 This is my [scholar](https://scholar.google.com/citations?user=Wlye2XUAAAAJ&hl=it&oi=ao)
 
 📫 email: gianluca@scarpellini.dev\
