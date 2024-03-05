@@ -7,7 +7,7 @@ Ph.D. student @ Italian Institute of Technology and former intern @ DeepMind, cu
 
 This is my [linkedin](https://www.linkedin.com/in/gianlucascarpellini/)\
 This is my [blog](https://blog.scarpellini.dev)\
-This is my [resume](https://github.com/gianscarpe/resume/blob/master/Scarpellini_cv.pdf)\
+This is my [resume](https://scarpellini.dev/scarpellini_cv.pdf)\
 This is my [scholar](https://scholar.google.com/citations?user=Wlye2XUAAAAJ&hl=it&oi=ao)
 
 📫 email: gianluca@scarpellini.dev\
