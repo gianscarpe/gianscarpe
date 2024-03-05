@@ -3,12 +3,9 @@
 I'm [Gianluca](https://blog.scarpellini.dev)!
 Ph.D. student @ Italian Institute of Technology and former intern @ DeepMind, currently working on robotics exploration, reinforcement learning, and diffusion models :)
 
-<a href=https://www.linkedin.com/in/gianlucascarpellini/>
-  <img align="left" alt="Gianscarpe's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=gianscarpe.gianscarpe)
 
+This is my [linkedin](https://www.linkedin.com/in/gianlucascarpellini/)\
 This is my [blog](https://blog.scarpellini.dev)\
 This is my [resume](https://github.com/gianscarpe/resume/blob/master/Scarpellini_cv.pdf)\
 This is my [scholar](https://scholar.google.com/citations?user=Wlye2XUAAAAJ&hl=it&oi=ao)
