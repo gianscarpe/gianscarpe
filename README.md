@@ -1,7 +1,7 @@
 ### What's up there? 👋
 
 I'm [Gianluca](https://blog.scarpellini.dev)!
-Ph.D. student @ Italian Institute of Technology and previously intern @ DeepMind, currently working on robotics exploration, reinforcement learning, and diffusion models :)
+Ph.D. student @ Italian Institute of Technology and former intern @ DeepMind, currently working on robotics exploration, reinforcement learning, and diffusion models :)
 
 <a href=https://www.linkedin.com/in/gianlucascarpellini/>
   <img align="left" alt="Gianscarpe's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -21,6 +21,8 @@ Programming Languages: Python, [C++](https://github.com/gianscarpe/cpp_primer)\
 Courses: [Udacity - Deep Reinforcement Learning](https://github.com/gianscarpe/udacity_deep_reinforcement_learning), [Udacity - Robotics](https://github.com/gianscarpe/udacity_sensor_fusion)\
 
 Publications:
+- [DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly - CVPR2024](https://iit-pavis.github.io/DiffAssemble/)
+- [π2vec: Policy Representation with Successor Features - ICLR2024](https://openreview.net/pdf?id=o5Bqa4o5Mi)
 - [Lifting events to 3D Human Poses - CVPRw 2021](https://github.com/IIT-PAVIS/lifting_events_to_3d_hpe)
 
 Contributing to: 
