@@ -18,9 +18,9 @@ Programming Languages: Python, [C++](https://github.com/gianscarpe/cpp_primer)\
 Courses: [Udacity - Deep Reinforcement Learning](https://github.com/gianscarpe/udacity_deep_reinforcement_learning), [Udacity - Robotics](https://github.com/gianscarpe/udacity_sensor_fusion)\
 
 Publications:
-- [DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly - CVPR2024](https://iit-pavis.github.io/DiffAssemble/)
-- [π2vec: Policy Representation with Successor Features - ICLR2024](https://openreview.net/pdf?id=o5Bqa4o5Mi)
-- [Lifting events to 3D Human Poses - CVPRw 2021](https://github.com/IIT-PAVIS/lifting_events_to_3d_hpe)
+- [DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly](https://iit-pavis.github.io/DiffAssemble/) CVPR2024
+- [π2vec: Policy Representation with Successor Features](https://openreview.net/pdf?id=o5Bqa4o5Mi) ICLR2024
+- [Lifting events to 3D Human Poses](https://github.com/IIT-PAVIS/lifting_events_to_3d_hpe) CVPRw 2021
 
 Contributing to: 
 - [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
