@@ -1,7 +1,7 @@
 ### What's up there? 👋
 
-I'm [Gianluca](https://blog.scarpellini.dev)!
-Ph.D. student @ Italian Institute of Technology and former intern @ DeepMind, currently working on robotics exploration, reinforcement learning, and diffusion models :)
+I'm [Gianluca](https://blog.scarpellini.dev)! Currently Research Scientist @ Genesis Therapeutics.
+I hold a Ph.D. student @ Italian Institute of Technology in Computer Vision and Reinforcement Learning. In 2022, I interned at Google DeepMind. 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gianscarpe.gianscarpe)
 
