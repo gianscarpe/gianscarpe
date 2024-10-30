@@ -18,6 +18,8 @@ Programming Languages: Python, [C++](https://github.com/gianscarpe/cpp_primer)\
 Courses: [Udacity - Deep Reinforcement Learning](https://github.com/gianscarpe/udacity_deep_reinforcement_learning), [Udacity - Robotics](https://github.com/gianscarpe/udacity_sensor_fusion)\
 
 Publications:
+- [Re-assembling the past: The RePAIR dataset and benchmark]() NeurIPS2024
+- [Positional diffusion: Graph-based diffusion models for set ordering](https://www.sciencedirect.com/science/article/pii/S0167865524002988) Pattern Recognition
 - [Look Around and Learn](https://github.com/IIT-PAVIS/Look_Around_And_Learn) ECCV2024
 - [DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly](https://iit-pavis.github.io/DiffAssemble/) CVPR2024
 - [π2vec: Policy Representation with Successor Features](https://openreview.net/pdf?id=o5Bqa4o5Mi) ICLR2024
