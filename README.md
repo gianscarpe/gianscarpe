@@ -3,15 +3,13 @@
 I'm [Gianluca](https://blog.scarpellini.dev)! Currently Research Scientist @ Genesis Therapeutics.
 I hold a Ph.D. student @ Italian Institute of Technology in Computer Vision and Reinforcement Learning. In 2022, I interned at Google DeepMind. 
 
-![](https://visitor-badge.glitch.me/badge?page_id=gianscarpe.gianscarpe)
-
 This is my [linkedin](https://www.linkedin.com/in/gianlucascarpellini/)\
 This is my [blog](https://blog.scarpellini.dev)\
 This is my [resume](https://scarpellini.dev/scarpellini_cv.pdf)\
 This is my [scholar](https://scholar.google.com/citations?user=Wlye2XUAAAAJ&hl=it&oi=ao)
 
 📫 email: gianluca@scarpellini.dev\
-🔭 Research on Self-supervised object-detection, robotics exploration, reinforcement learning
+🔭 Research on Generative models, object-detection, robotics exploration, reinforcement learning\
 🌱 [Computer Vision](https://github.com/gianscarpe/computer_vision_szeliski), [Image processing](https://github.com/gianscarpe/chess_detection)
 
 Programming Languages: Python, [C++](https://github.com/gianscarpe/cpp_primer)\
