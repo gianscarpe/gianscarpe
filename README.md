@@ -1,11 +1,10 @@
 ### What's up there? 👋
 
-I'm [Gianluca](https://blog.scarpellini.dev)! Currently Research Scientist @ Genesis Therapeutics.
+I'm [Gianluca](https://blog.scarpellini.dev)!
 I hold a Ph.D. student @ Italian Institute of Technology in Computer Vision and Reinforcement Learning. In 2022, I interned at Google DeepMind. 
 
 This is my [linkedin](https://www.linkedin.com/in/gianlucascarpellini/)\
 This is my [blog](https://blog.scarpellini.dev)\
-This is my [resume](https://scarpellini.dev/scarpellini_cv.pdf)\
 This is my [scholar](https://scholar.google.com/citations?user=Wlye2XUAAAAJ&hl=it&oi=ao)
 
 📫 email: gianluca@scarpellini.dev\
