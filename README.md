@@ -1,7 +1,7 @@
 ### What's up there? 👋
 
 I'm [Gianluca](https://blog.scarpellini.dev)!
-I hold a Ph.D. student @ Italian Institute of Technology in Computer Vision and Reinforcement Learning. In 2022, I interned at Google DeepMind. 
+I'm a Research Scientist at Genesis Molecular AI working on generative models for drug discovery. I hold a Ph.D. student @ Italian Institute of Technology in Computer Vision and Reinforcement Learning. In 2022, I interned at Google DeepMind. 
 
 This is my [linkedin](https://www.linkedin.com/in/gianlucascarpellini/)\
 This is my [blog](https://blog.scarpellini.dev)\
