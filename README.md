@@ -15,6 +15,9 @@ Programming Languages: Python, [C++](https://github.com/gianscarpe/cpp_primer)\
 Courses: [Udacity - Deep Reinforcement Learning](https://github.com/gianscarpe/udacity_deep_reinforcement_learning), [Udacity - Robotics](https://github.com/gianscarpe/udacity_sensor_fusion)\
 
 Publications:
+- [Few-step Cofolding with All-Atom Flow Maps]() Arxiv
+- [Triangle Multiplication Is All You Need For Biomolecular Structure Representations]() ICLR2025
+- [Condensation of Force Field Parameters from Machine Learning Predicted Distributions for High-Throughput Virtual Screening Applications]() Journal of Chemical Information and Modeling 
 - [Re-assembling the past: The RePAIR dataset and benchmark]() NeurIPS2024
 - [Positional diffusion: Graph-based diffusion models for set ordering](https://www.sciencedirect.com/science/article/pii/S0167865524002988) Pattern Recognition
 - [Look Around and Learn](https://github.com/IIT-PAVIS/Look_Around_And_Learn) ECCV2024
