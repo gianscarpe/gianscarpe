@@ -27,19 +27,3 @@ Contributing to:
 - [torchmetrics](https://github.com/PyTorchLightning/metrics)
 
 ⚡ Fun fact: I love reading. Currently heading toward 35 books this year. Add me on [goodreads](https://www.goodreads.com/user/show/123225277-gianscarpe). Sometimes I write too. [You can read something](https://blog.scarpellini.dev/short-stories/)
-
-<a href="https://github.com/gianscarpe/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gianscarpe&show_icons=true&include_all_commits=true&theme=radical" alt="Gianscarpe's github stats" />
-</a>
-<a href="https://github.com/gianscarpe">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianscarpe&layout=compact&theme=radical&hide=jupyter%20notebook,html,css,tex" />
-</a>
-
-<a href="https://github.com/IIT-PAVIS/lifting_events_to_3d_hpe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianscarpe&repo=event-based-monocular-hpe&theme=radical" />
-</a>    
-
-<a href="https://github.com/gianscarpe/resume">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianscarpe&repo=resume&theme=radical" />
-</a>    
